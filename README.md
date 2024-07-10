@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dor</h1>
-<h3 align="center">A passionate Python Backend Developer from israel</h3>
+<h3 align="center">A passionate Automation Developer</h3>
 
-- 🔭 I’m currently working on [Due_Diligence_Getter](https://github.com/dordikman/Due_Diligence_Getter)
 
-- 🌱 I’m currently learning **aws, hadoop, kafka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
